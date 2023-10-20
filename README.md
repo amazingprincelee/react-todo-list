@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+# About this project
+This project was developed using React, providing a user-friendly platform for adding and effortlessly removing To-Do items with a simple click. Its primary objective was to serve as a practical exercise to assess and enhance my proficiency in managing React content and utilizing props effectively.
+
+To see the project go to https://react-todo-list-one-ecru.vercel.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
